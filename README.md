@@ -24,5 +24,5 @@ I'm Mauro Druwel, a 15-year-old Belgian inventor and programmer. I love to creat
 
 ## Get in touch
 
-If you have any questions or want to collaborate, feel free to contact me at [maurodruwel@gmail.com](mailto:maurodruwel@gmail.com) or my [Discord](https://discordapp.com/users/768845999594536960).
+If you have any questions or want to collaborate, feel free to contact me at [maurodruwel@gmail.com](mailto:mauro.druwel@gmail.com) or my [Discord](https://discordapp.com/users/768845999594536960).
 I hope you have a great day 👋

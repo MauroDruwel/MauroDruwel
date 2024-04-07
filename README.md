@@ -18,9 +18,9 @@ I'm Mauro Druwel, a 15-year-old Belgian inventor and programmer. I love to creat
 
 ## My GitHub stats
 
-![MauroDruwel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurodruwel\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![MauroDruwel's GitHub Stats](https://github-readme-stats-git-master-maurodruwels-projects.vercel.app/api?username=maurodruwel\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurodruwel\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Top Langs](https://github-readme-stats-git-master-maurodruwels-projects.vercel.app/api/top-langs/?username=maurodruwel\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ## Get in touch
 

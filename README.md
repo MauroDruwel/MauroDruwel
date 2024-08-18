@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Mauro Druwel, a 15-year-old Belgian inventor and programmer. I love to create new things and solve problems. I'm also passionate about helping others learn about science, technology, and engineering.
+I'm Mauro Druwel, a 16-year-old Belgian inventor and programmer. I love to create new things and solve problems. I'm also passionate about helping others learn about science, technology, and engineering.
 
 ## What I'm working on
 

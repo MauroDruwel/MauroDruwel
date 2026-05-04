@@ -4,8 +4,8 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-maurodruwel.be-blue?style=flat-square)](https://maurodruwel.be)
 [![X](https://img.shields.io/badge/X-@codermauro2008-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/codermauro2008)
-[![Instagram](https://img.shields.io/badge/Instagram-@maurodruwel-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/maurodruwel/)
-[![YouTube](https://img.shields.io/badge/YouTube-Mauro_Druwel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_d7bLh0v2w4-s62_dG3aRw)
+[![Instagram](https://img.shields.io/badge/Instagram-@codermauro-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codermauro/)
+[![YouTube](https://img.shields.io/badge/YouTube-Mauro_Druwel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@codermauro)
 [![Discord](https://img.shields.io/badge/Discord-Mauro_Druwel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/768845999594536960)
 [![Email](https://img.shields.io/badge/Email-mauro.druwel@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mauro.druwel@gmail.com)
 
@@ -97,11 +97,7 @@
 
 ## 🛠️ Tech stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skill-icons.onurravli.workers.dev/icons?i=python,cs,javascript,c,bash,html,css,docker,arduino,claude" height="48" />
-  </a><img src="https://raw.githubusercontent.com/MauroDruwel/MauroDruwel/main/assets/githubcopilot.svg" width="48" height="48" /><img src="https://raw.githubusercontent.com/MauroDruwel/MauroDruwel/main/assets/more.svg" width="48" height="48" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,cs,javascript,c,bash,html,css,docker,arduino,cloudflare" height="48" /><img src="https://raw.githubusercontent.com/MauroDruwel/MauroDruwel/main/assets/claude.svg" width="48" height="48" /><img src="https://raw.githubusercontent.com/MauroDruwel/MauroDruwel/main/assets/githubcopilot.svg" width="48" height="48" /><img src="https://raw.githubusercontent.com/MauroDruwel/MauroDruwel/main/assets/more.svg" width="48" height="48" /></p>
 
 ---
 

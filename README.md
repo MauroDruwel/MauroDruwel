@@ -15,27 +15,27 @@
 
 <details open>
 <summary>💻 Software & open-source</summary>
-
-| Project | Description |
-|---------|-------------|
-| 📊 **[NIMStats](https://github.com/MauroDruwel/NIMStats)** | Automated hourly benchmarks for 20+ NVIDIA NIM models — interactive dashboard, zero infra |
-| 🤖 **[Copilot-Spawner](https://github.com/MauroDruwel/Copilot-Spawner)** | Self-hosted web UI to spawn, monitor, and manage GitHub Copilot CLI sessions with live terminals |
-| 🧠 **[Smartschool-MCP](https://github.com/MauroDruwel/Smartschool-MCP)** | MCP server enabling AI agents to communicate with the Smartschool platform |
-| 💧 **[Watermeter](https://github.com/MauroDruwel/Watermeter)** | Simple, modern, AI-powered water meter reading for Home Assistant |
-| 🏊 **[Swimrankings](https://github.com/MauroDruwel/Swimrankings)** | Python library for accessing competitive swimming data from swimrankings.net |
-| 🐧 **[SlashOS](https://github.com/SlashOS)** | Custom Arch-based Linux distro with its own pywebview desktop installer |
-
+<br>
+<table><tr>
+<td><b>📊 <a href="https://github.com/MauroDruwel/NIMStats">NIMStats</a></b><br><sub>Automated hourly benchmarks for 20+ NVIDIA NIM models</sub></td>
+<td><b>🤖 <a href="https://github.com/MauroDruwel/Copilot-Spawner">Copilot-Spawner</a></b><br><sub>Self-hosted web UI to manage GitHub Copilot CLI sessions</sub></td>
+</tr><tr>
+<td><b>🧠 <a href="https://github.com/MauroDruwel/Smartschool-MCP">Smartschool-MCP</a></b><br><sub>MCP server connecting AI agents to the Smartschool platform</sub></td>
+<td><b>💧 <a href="https://github.com/MauroDruwel/Watermeter">Watermeter</a></b><br><sub>AI-powered water meter reading for Home Assistant</sub></td>
+</tr><tr>
+<td><b>🏊 <a href="https://github.com/MauroDruwel/Swimrankings">Swimrankings</a></b><br><sub>Python library for competitive swimming data from swimrankings.net</sub></td>
+<td><b>🐧 <a href="https://github.com/SlashOS">SlashOS</a></b><br><sub>Custom Arch-based Linux distro with its own pywebview desktop installer</sub></td>
+</tr></table>
 </details>
 
 <details open>
 <summary>🔧 Hardware & inventions</summary>
-
-| Project | Description |
-|---------|-------------|
-| 🤖 **Ami:Go** | A robot that reminds people to drink water throughout the day |
-| 🦈 **Safety Shark** | A device that detects possibly drowning people |
-| 🚗 **Car:K★** | Ensures no baby or child is ever left behind in a car |
-
+<br>
+<table><tr>
+<td><b>🤖 Ami:Go</b><br><sub>A robot that reminds people to drink water throughout the day</sub></td>
+<td><b>🦈 Safety Shark</b><br><sub>A device that detects possibly drowning people</sub></td>
+<td><b>🚗 Car:K★</b><br><sub>Ensures no baby or child is ever left behind in a car</sub></td>
+</tr></table>
 </details>
 
 ---
@@ -44,53 +44,54 @@
 
 <details open>
 <summary>🏢 Microsoft</summary>
-
-| PR | Merged |
-|----|--------|
-| [feat(scripts): add structured JSON log output to Validate-Collections.ps1](https://github.com/microsoft/hve-core/pull/1431) — `hve-core` | 2026-05-03 |
-| [feat(scripts): add structured JSON log output to Validate-Marketplace.ps1](https://github.com/microsoft/hve-core/pull/1430) — `hve-core` | 2026-04-29 |
-| [fix(scripts): centralize ISO 8601 timestamp regex in CIHelpers](https://github.com/microsoft/hve-core/pull/1343) — `hve-core` | 2026-04-20 |
-
+<br>
+<table><tr>
+<td><b><a href="https://github.com/microsoft/hve-core/pull/1431">feat(scripts): add structured JSON log output to Validate-Collections.ps1</a></b><br><sub><code>hve-core</code> · merged 2026-05-03</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/microsoft/hve-core/pull/1430">feat(scripts): add structured JSON log output to Validate-Marketplace.ps1</a></b><br><sub><code>hve-core</code> · merged 2026-04-29</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/microsoft/hve-core/pull/1343">fix(scripts): centralize ISO 8601 timestamp regex in CIHelpers</a></b><br><sub><code>hve-core</code> · merged 2026-04-20</sub></td>
+</tr></table>
 </details>
 
 <details open>
 <summary>⚡ NVIDIA</summary>
-
-| PR | Merged |
-|----|--------|
-| [fix(install): configure npm for user-local installs to avoid EACCES on Linux](https://github.com/NVIDIA/NemoClaw/pull/821) — `NemoClaw` | 2026-03-30 |
-
+<br>
+<table><tr>
+<td><b><a href="https://github.com/NVIDIA/NemoClaw/pull/821">fix(install): configure npm for user-local installs to avoid EACCES on Linux</a></b><br><sub><code>NemoClaw</code> · merged 2026-03-30</sub></td>
+</tr></table>
 </details>
 
 <details open>
 <summary>🧠 Jan / Cortex</summary>
-
-| PR | Merged |
-|----|--------|
-| [feat: add NVIDIA NIM as a predefined cloud provider](https://github.com/janhq/jan/pull/7740) — `jan` | 2026-03-18 |
-| [Add AVX support for Linux in `install.sh`](https://github.com/janhq/cortex.cpp/pull/486) — `cortex.cpp` | 2024-04-10 |
-| [Prompt user for AVX version in `install.bat`](https://github.com/janhq/cortex.cpp/pull/469) — `cortex.cpp` | 2024-03-30 |
-| [.tar.gz PowerShell issues fix](https://github.com/janhq/cortex.cpp/pull/373) — `cortex.cpp` | 2024-02-19 |
-
+<br>
+<table><tr>
+<td><b><a href="https://github.com/janhq/jan/pull/7740">feat: add NVIDIA NIM as a predefined cloud provider</a></b><br><sub><code>jan</code> · merged 2026-03-18</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/janhq/cortex.cpp/pull/486">Add AVX support for Linux in install.sh</a></b><br><sub><code>cortex.cpp</code> · merged 2024-04-10</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/janhq/cortex.cpp/pull/469">Prompt user for AVX version in install.bat</a></b><br><sub><code>cortex.cpp</code> · merged 2024-03-30</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/janhq/cortex.cpp/pull/373">.tar.gz PowerShell issues fix</a></b><br><sub><code>cortex.cpp</code> · merged 2024-02-19</sub></td>
+</tr></table>
 </details>
 
 <details open>
 <summary>🤖 AutoGPT</summary>
-
-| PR | Merged |
-|----|--------|
-| [Add support for args to `execute_python_file`](https://github.com/Significant-Gravitas/AutoGPT/pull/3972) | 2023-09-09 |
-
+<br>
+<table><tr>
+<td><b><a href="https://github.com/Significant-Gravitas/AutoGPT/pull/3972">Add support for args to execute_python_file</a></b><br><sub><code>AutoGPT</code> · merged 2023-09-09</sub></td>
+</tr></table>
 </details>
 
 <details>
 <summary>🛠️ Other projects</summary>
-
-| PR | Repo | Merged |
-|----|------|--------|
-| [NVIDIA: Add MiniMax M2.5 model and remove MiniMax M2](https://github.com/anomalyco/models.dev/pull/1068) | `anomalyco/models.dev` | 2026-03-07 |
-| [feat: Use NVIDIA NIM ASR for audio transcription](https://github.com/Alishahryar1/free-claude-code/pull/53) | `free-claude-code` | 2026-02-28 |
-
+<br>
+<table><tr>
+<td><b><a href="https://github.com/anomalyco/models.dev/pull/1068">NVIDIA: Add MiniMax M2.5 model and remove MiniMax M2</a></b><br><sub><code>anomalyco/models.dev</code> · merged 2026-03-07</sub></td>
+</tr><tr>
+<td><b><a href="https://github.com/Alishahryar1/free-claude-code/pull/53">feat: Use NVIDIA NIM ASR for audio transcription</a></b><br><sub><code>free-claude-code</code> · merged 2026-02-28</sub></td>
+</tr></table>
 </details>
 
 ---
